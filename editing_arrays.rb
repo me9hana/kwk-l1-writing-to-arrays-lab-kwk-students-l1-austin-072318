@@ -10,7 +10,7 @@ def change_rainbow_colors
   rainbow_colors.delete_at(0)
   rainbow_colors.delete_at(1)
   rainbow_colors.delete_at(2)
-  rainbow_colors.push("red", "lihht red", "yellow", "light yellow")
+  rainbow_colors.push("red", "light red", "yellow", "light yellow")
 end
 change_rainbow_colors
 
