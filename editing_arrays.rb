@@ -14,4 +14,4 @@ def change_rainbow_colors
   rainbow_colors << "blue"
 end
 change_rainbow_colors
-
+puts rainbow_colors
